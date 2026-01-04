@@ -1,0 +1,9 @@
+{
+  "title": "Modern CSS Styling Techniques",
+  "slug": "modern-css-styling",
+  "content": "<p>Modern CSS has evolved significantly with new features like Grid, Flexbox, Custom Properties, and more. Mastering these techniques will make you a better frontend developer.</p><h2>The Evolution of CSS</h2><p>CSS has come a long way from simple styling to a powerful layout and animation language. Understanding modern CSS is essential for building beautiful, responsive websites.</p><h2>1. Master CSS Grid and Flexbox</h2><p>CSS Grid is perfect for two-dimensional layouts, while Flexbox excels at one-dimensional layouts. Learn when to use each and how to combine them effectively.</p><h2>2. Use CSS Custom Properties</h2><p>CSS Variables (custom properties) allow you to store values that can be reused throughout your stylesheet. They're perfect for theming and dynamic styling.</p><h2>3. Learn Modern Layout Techniques</h2><p>Explore Container Queries, Subgrid, and new positioning features. These modern techniques give you more control over responsive design.</p><h2>4. Understand CSS Frameworks</h2><p>Learn popular frameworks like Tailwind CSS, Bootstrap, or Bulma. Understand their pros and cons, and when to use them vs. vanilla CSS.</p><h2>5. Master Animations and Transitions</h2><p>Create smooth animations using CSS transitions and keyframes. Learn about performance optimization and when to use CSS vs. JavaScript animations.</p><h2>6. Explore CSS Preprocessors</h2><p>Learn Sass or Less for variables, nesting, mixins, and functions. These tools can significantly speed up your development workflow.</p><h2>7. Focus on Performance</h2><p>Understand critical CSS, CSS optimization, and how to reduce render-blocking resources. Performance is crucial for user experience.</p>",
+  "author": "Emily Rodriguez",
+  "metadesc": "Learn modern CSS techniques including Grid, Flexbox, custom properties, and advanced styling patterns"
+}
+
+

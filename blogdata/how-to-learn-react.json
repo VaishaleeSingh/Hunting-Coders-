@@ -1,0 +1,7 @@
+{
+  "title": "How to Learn React",
+  "slug": "how-to-learn-react",
+  "content": "<p>React is the most popular JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, Airbnb, and thousands more.</p><h2>Prerequisites</h2><p>Before diving into React, make sure you have a solid understanding of JavaScript, HTML, and CSS. You should be comfortable with ES6+ features like arrow functions, destructuring, and modules.</p><h2>1. Understand the Core Concepts</h2><p>Start with components, JSX, props, and state. These are the building blocks of every React application. Don't move forward until you're comfortable with these concepts.</p><h2>2. Master React Hooks</h2><p>Hooks like useState, useEffect, useContext, and useReducer are essential for modern React development. They make your code cleaner and more reusable.</p><h2>3. Learn Component Patterns</h2><p>Study common patterns like Higher-Order Components (HOCs), Render Props, and Compound Components. Understanding these will make you a more effective React developer.</p><h2>4. Build Real Applications</h2><p>Create projects like a todo app, weather app, e-commerce site, or social media dashboard. Each project will teach you something new.</p><h2>5. Explore the Ecosystem</h2><p>Learn about routing (React Router), state management (Redux, Zustand), styling solutions (styled-components, Tailwind), and testing (Jest, React Testing Library).</p>",
+  "author": "Jane Smith",
+  "metadesc": "Step-by-step guide to mastering React with best practices and project ideas"
+}

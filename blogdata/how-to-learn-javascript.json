@@ -1,0 +1,7 @@
+{
+  "title": "How to Learn JavaScript",
+  "slug": "how-to-learn-javascript",
+  "content": "<p>JavaScript is the programming language of the web. Whether you want to build websites, mobile apps, or even server-side applications, JavaScript is an essential skill.</p><h2>1. Start with the Basics</h2><p>Begin by understanding variables, data types, operators, and control structures. Don't rush through the fundamentals - they're the foundation of everything else you'll learn.</p><h2>2. Practice Every Day</h2><p>Consistency is key. Even 30 minutes of coding daily is better than cramming for hours once a week. Use platforms like CodeWars, LeetCode, or FreeCodeCamp to practice.</p><h2>3. Build Real Projects</h2><p>Theory is important, but nothing beats hands-on experience. Start with simple projects like a calculator, then move on to more complex applications.</p><h2>4. Learn Modern JavaScript (ES6+)</h2><p>Make sure you understand arrow functions, destructuring, promises, async/await, and modules. These are essential for modern development.</p><h2>5. Join the Community</h2><p>Participate in forums, attend meetups, and contribute to open source. Learning from others accelerates your growth tremendously.</p>",
+  "author": "John Doe",
+  "metadesc": "Complete guide to learning JavaScript with practical tips and resources"
+}
